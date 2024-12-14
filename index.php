@@ -2,9 +2,10 @@
 <html class="wide wow-animation" lang="en" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
 <head>
-  <title>Island Divers-Diving in Andaman And Nicobar Islands</title>
-  <meta name="description" content="Learn more about Island Divers, the leading diving center in Andaman and Nicobar Islands. We offer a variety of scuba diving courses, from beginner to advanced, including boat diving and shore diving experiences.">
-  <meta name="keywords" content="diving in andaman and nicobar islands, boat scuba diving in andaman and nicobar, scuba diving courses in andaman, open water diving or advanced courses in andaman, water diving advanced courses, best scuba in havelock island, scuba diving havelock island, boat diving havelock island, shore diving for beginners in andaman, shore diving for beginners in andaman and nicobar, open water diving advanced course in andaman, scuba diving training in andaman, scuba diving season in andaman, best scuba diving in andaman, padi scuba diving course in andaman, beginner scuba courses in Andaman, professional diving courses in Andaman, coral reef diving Andaman, night diving in Andaman, shipwreck diving Andaman, Andaman and Nicobar diving spots, best diving locations in Andaman, underwater diving Andaman, diving certification programs in Andaman, dive master courses Andaman, Elephant Beach diving Andaman, Radhanagar Beach scuba diving, Neil Island diving spots, Barren Island scuba adventures, North Bay Island diving, best time for scuba diving in Andaman, diving conditions Andaman, Andaman diving weather, seasonal diving trips Andaman, monsoon diving Andaman, underwater photography Andaman, snorkeling and diving packages, scuba diving deals Andaman, safe diving practices Andaman, scuba gear rental Andaman, diving equipment Andaman, dive shop Andaman, scuba insurance Andaman, technical diving Andaman, recreational diving Andaman, eco-friendly diving Andaman, solo diving Andaman, group diving trips Andaman">
+  <title>Island Divers • Best Scuba Diving In Andaman • Scuba Diving In Havelock</title>
+  <meta name="description" content="Experience the best scuba diving in Havelock with Island Divers, Andaman's top PADI-certified dive center. Beginner to advanced courses, boat dives, and shore diving for unforgettable underwater adventures.">
+  <!-- <meta name="keywords" content="Best Scuba Diving in Havelock | Island Divers - Andaman's Top Dive Center, Best Dive Sites, Diving Company in Havelock, Diving in Andaman, Diving in Havelock, Scuba Diving in Havelock, diving in andaman and nicobar islands, boat scuba diving in andaman and nicobar, scuba diving courses in andaman, open water diving or advanced courses in andaman, water diving advanced courses, best scuba in havelock island, scuba diving havelock island, boat diving havelock island, shore diving for beginners in andaman, shore diving for beginners in andaman and nicobar, open water diving advanced course in andaman, scuba diving training in andaman, scuba diving season in andaman, best scuba diving in andaman, padi scuba diving course in andaman, beginner scuba courses in Andaman, professional diving courses in Andaman, coral reef diving Andaman, night diving in Andaman, shipwreck diving Andaman, Andaman and Nicobar diving spots, best diving locations in Andaman, underwater diving Andaman, diving certification programs in Andaman, dive master courses Andaman, Elephant Beach diving Andaman, Radhanagar Beach scuba diving, Neil Island diving spots, Barren Island scuba adventures, North Bay Island diving, best time for scuba diving in Andaman, diving conditions Andaman, Andaman diving weather, seasonal diving trips Andaman, monsoon diving Andaman, underwater photography Andaman, snorkeling and diving packages, scuba diving deals Andaman, safe diving practices Andaman, scuba gear rental Andaman, diving equipment Andaman, dive shop Andaman, scuba insurance Andaman, technical diving Andaman, recreational diving Andaman, eco-friendly diving Andaman, solo diving Andaman, group diving trips Andaman"> -->
+  <meta name="keywords" content="Best Scuba Diving in Havelock, Scuba Diving Andaman, PADI Dive Center, Boat Diving Havelock, Beginner Scuba Courses, Advanced Diving Andaman, Coral Reef Diving">
   <meta name="robots" content="index, follow" />
   <meta name="googlebot" content="all, index, follow" />
   <meta name="YahooSeeker" content="INDEX, FOLLOW" />
@@ -18,6 +19,9 @@
   <link rel="alternate" href="https://www.islanddivers.in" hreflang="en-us" />
   <meta name="google-site-verification" content="2h4Sqt1O6CKa-qTX7QpOlXMt441I7Qij23XQPxTwxFA" />
   <meta name="google-site-verification" content="AMKLftOV7cz0nwTWcQjdb9kHOXRy2q0qUYqgj0dRNxM"   />
+  <meta property="og:title" content="Island Divers - Best Scuba Diving in Havelock, Andamans" />
+  <meta property="og:description" content="Dive into the best scuba diving experiences in Havelock with Island Divers. Explore underwater adventures in Andaman." />
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LREDLGF9ZJ"></script>
   <script>
@@ -30,29 +34,34 @@
 
     gtag('config', 'G-LREDLGF9ZJ');
   </script>
-  
-  
-  <!-- Event snippet for Website lead (1) conversion page -->
-<script>
-  gtag('event', 'conversion', {'send_to': 'AW-16530938920/6BpuCOqSr90ZEKi4yMo9'});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16530938920"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'AW-16530938920');
-</script>
-  
-  
-  
-  
-  
-  
-  
-  
+
+  <!-- Event snippet for Website lead (1) conversion page -->
+  <script>
+    gtag('event', 'conversion', {
+      'send_to': 'AW-16530938920/6BpuCOqSr90ZEKi4yMo9'
+    });
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16530938920"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-16530938920');
+  </script>
+
+
+
+
+
+
+
+
   <!--SEO-->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
@@ -105,20 +114,43 @@
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Organization",
+      "@type": "LocalBusiness",
       "name": "Island Divers",
-      "url": "https://www.islanddivers.in",
+      "image": "https://www.islanddivers.in/images/logo-default-120x45.png",
+      <
+      !--"url": "https://www.islanddivers.in",
       "logo": "https://www.islanddivers.in/images/logo.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91 9531979064",
-        "contactType": "Customer Service"
+      -- >
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Havelock Island",
+        "addressLocality": "Andaman and Nicobar",
+        "postalCode": "744211",
+        "addressCountry": "IN"
       },
+      "telephone": "+91 9531979064",
+      "priceRange": "$$",
+      "url": "https://www.islanddivers.in",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.012345",
+        "longitude": "92.987654"
+      },
+      "sameAs": [
+          "https://www.facebook.com/islanddivers",
+          "https://www.instagram.com/islanddivers",
+          "https://www.twitter.com/islanddivers"
+        ] <
+        !--"contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+91 9531979064",
+          "contactType": "Customer Service"
+        },
       "sameAs": [
         "https://www.facebook.com/islanddivers",
         "https://www.instagram.com/islanddivers",
         "https://www.twitter.com/islanddivers"
-      ]
+      ]-- >
     }
   </script>
 
@@ -261,7 +293,7 @@
           <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm hover-zoom">
               <div class="card-img-container">
-                <img src="images/Offers/DSD.jpeg" class="card-img-top" alt="Discover Scuba Dive">
+                <img src="images/Offers/exlusive.jpeg" class="card-img-top" alt="Discover Scuba Dive">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Discover Scuba Dive</h5>
@@ -353,6 +385,70 @@
         transform: scale(1.1);
       }
     </style>
+
+
+    <!-- Certification Courses -->
+    <section class="section section-lg bg-default">
+      <div class="container">
+        <h3 class="wow fadeScale">Certification Courses</h3>
+        <p>Dive deep into adventure with our Open Water Certification course at the stunning Havelock Island, Andamans. 🐠 Let's make those underwater dreams a reality!</p>
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm hover-zoom">
+              <div class="card-img-container">
+                <img src="images/certificates/c1.jpeg" class="card-img-top" alt="Open Water Diver">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Course 1</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm hover-zoom">
+              <div class="card-img-container">
+                <img src="images/certificates/c2.jpeg" class="card-img-top" alt="Advanced Open Water">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Course 2</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm hover-zoom">
+              <div class="card-img-container">
+                <img src="images/certificates/c3.jpeg" class="card-img-top" alt="Rescue Diver">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Steps</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-4">
+          <a href="https://wa.me/919531979064" target="_blank" class="btn btn-primary">Book Now</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Top 8 Dive Sites -->
+    <section class="section section-lg bg-default">
+      <div class="container">
+        <h3 class="wow fadeScale">Top 8 Dive Sites</h3>
+        <p>Discover the most breathtaking dive sites in the Andamans with Island Divers. From vibrant coral reefs to mysterious shipwrecks, our expert guides will take you on an unforgettable underwater journey. Book now and explore the wonders of the ocean!</p>
+        <div class="row">
+          <div class="col-md-12 mb-4">
+            <div class="card h-100 shadow-sm hover-zoom">
+              <div class="card-img-container">
+                <img src="images/Top 8 dive sites.jpeg" class="card-img-top" alt="Top 8 Dive Sites">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center mt-4">
+          <a href="https://wa.me/919531979064" target="_blank" class="btn btn-primary">Book Now</a>
+        </div>
+      </div>
+    </section>
 
     <!--The Tours-->
     <section class="section section-lg bg-default">

@@ -269,6 +269,126 @@
                         </div>
                     </div>
                 </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/11.jpg" class="card-img-top" alt="Havelock - Ultimate Scuba diving in Andaman">
+                        <div class="card-body text-start">
+                            <a href="blog11.php">
+                                <h5 class="card-title blog-title">Why Havelock is the Ultimate Destination for Scuba Diving in Andaman?</h5>
+                            </a>
+                            <p class="card-text">If you’re seeking an unforgettable underwater adventure, Havelock Island in the Andaman and Nicobar Islands is the place to be! Known for its crystal-clear waters, vibrant coral reefs, and diverse marine life, Havelock is widely regarded as the best destination for scuba diving in Andaman. </p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/12.jpg" class="card-img-top" alt="Best Scuba Diving Packages">
+                        <div class="card-body text-start">
+                            <a href="blog12.php">
+                                <h5 class="card-title blog-title">The Best Scuba Diving Packages in Andaman for Every Budget and Skill Level</h5>
+                            </a>
+                            <p class="card-text">Planning a trip to the Andaman Islands and dreaming of diving into its underwater paradise? The Andamans offer some of the best scuba diving experiences in India, particularly on Havelock Island. From colorful coral reefs to mesmerizing sea life, there’s something for everyone.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/13.jpg" class="card-img-top" alt="Havelock - Perfect Scuba diving in Andaman">
+                        <div class="card-body text-start">
+                            <a href="blog13.php">
+                                <h5 class="card-title blog-title">Why Havelock is the Perfect Destination for Diving in the Andamans ?</h5>
+                            </a>
+                            <p class="card-text">Imagine floating weightlessly in warm, crystal-clear waters, surrounded by coral reefs bursting with color and fish gliding around you. The Andaman Islands are known for pristine dive sites, and if you’re considering diving in Andaman, Havelock Island is the place to be.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/14.jpg" class="card-img-top" alt="Affordable Scuba Diving Packages in Havelock">
+                        <div class="card-body text-start">
+                            <a href="blog14.php">
+                                <h5 class="card-title blog-title">Discover Affordable Scuba Diving Packages in Havelock with Island Divers</h5>
+                            </a>
+                            <p class="card-text">Scuba diving is often perceived as an expensive adventure, but Island Divers in Havelock Island is breaking the mold. we offer affordable diving packages that make this experience accessible.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/15.jpg" class="card-img-top" alt="Havelock Dive School - Path to PADI Certification">
+                        <div class="card-body text-start">
+                            <a href="blog15.php">
+                                <h5 class="card-title blog-title">Havelock Dive School: Your Path to PADI Certification with Island Divers</h5>
+                            </a>
+                            <p class="card-text">For those captivated by the ocean and looking to make diving a serious hobby, getting certified is the key to unlocking a world of underwater exploration. Havelock Island, with its stunning dive sites and vibrant marine life, is an ideal location for dive training.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/16.jpg" class="card-img-top" alt="Everything about Diving in Havelock with Island Divers">
+                        <div class="card-body text-start">
+                            <a href="blog16.php">
+                                <h5 class="card-title blog-title">Everything You Need to Know About Diving in Havelock with Island Divers</h5>
+                            </a>
+                            <p class="card-text">Considering a dive into the turquoise waters of Havelock but have a few questions before you take the plunge? We get it! Scuba diving in the Andaman Islands, especially Havelock, is an unforgettable experience, and we want you to feel fully prepared.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/17.jpg" class="card-img-top" alt="Best Dive Sites in Havelock with Island Divers">
+                        <div class="card-body text-start">
+                            <a href="blog17.php">
+                                <h5 class="card-title blog-title">Explore the Best Dive Sites in Havelock with Island Divers</h5>
+                            </a>
+                            <p class="card-text">At Island Divers, we are passionate about helping divers of all skill levels explore the underwater magic of Havelock’s best dive sites. From colorful coral reefs to diverse marine life, here’s your guide to the top dive sites and what you can expect when diving with Island Divers.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/18.jpg" class="card-img-top" alt="First Scuba Diving in Havelock with Island Divers">
+                        <div class="card-body text-start">
+                            <a href="blog18.php">
+                                <h5 class="card-title blog-title">Your First Scuba Dive in Havelock: What to Expect with Island Divers</h5>
+                            </a>
+                            <p class="card-text">For first-time divers, taking that initial plunge can be both thrilling and a bit nerve-wracking. At Island Divers, we believe that everyone should have the chance to explore the underwater world comfortably and safely.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/19.jpg" class="card-img-top" alt="Island Divers for Scuba Diving in Havelock">
+                        <div class="card-body text-start">
+                            <a href="blog19.php">
+                                <h5 class="card-title blog-title">Why Choose Island Divers for Scuba Diving in Havelock Island ?</h5>
+                            </a>
+                            <p class="card-text"> Island Divers, located in the heart of Havelock, stands out as one of the best dive centers in the region, offering professional services for all levels of divers.Whether you are an experienced diver or a first-time explorer, choosing the right diving center is crucial for ensuring a safe, enjoyable, and memorable experience.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card blog-card">
+                        <img src="images/blogs/20.jpg" class="card-img-top" alt="Ultimate Guide to Scuba Diving in Havelock with Island Divers">
+                        <div class="card-body text-start">
+                            <a href="blog20.php">
+                                <h5 class="card-title blog-title">The Ultimate Guide to Scuba Diving in Havelock: Explore the Best Dive Sites and Packages</h5>
+                            </a>
+                            <p class="card-text">Whether you're a beginner or an experienced diver, Havelock’s top dive sites and professional dive schools, like Island Divers, provide the perfect setting for exploring the underwater wonders of the Andamans.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 14th November 2024</small></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
 

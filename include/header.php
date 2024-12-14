@@ -17,7 +17,7 @@
              <ul class="rd-navbar-nav">
                <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a></li>
                <li class="rd-nav-item "><a class="rd-nav-link" href="about.php">About Us</a></li>
-               <li class="rd-nav-item"><a class="rd-nav-link" href="#">Types Of Scuba Diving</a>
+               <li class="rd-nav-item"><a class="rd-nav-link" href="scuba-diving-in-andaman.php">Types Of Scuba Diving</a>
                  <!-- RD Navbar Dropdown-->
                  <ul class="rd-menu rd-navbar-dropdown">
                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="shore-diving-for-beginners.php">Shore Diving For Beginners</a></li>
@@ -30,9 +30,8 @@
                <li class="rd-nav-item"><a class="rd-nav-link" href="water-sports.php">Water Sports</a> </li>
                <li class="rd-nav-item"><a class="rd-nav-link" href="gallery.php">Gallery</a> </li>
                <li class="rd-nav-item"><a class="rd-nav-link" href="blogs.php">Blogs</a> </li>
-               <li class="rd-nav-item"><a class="rd-nav-link" href="contact.php">Contacts</a>
-               <li class="rd-nav-item"><a class="rd-nav-link" href="book-now.php">Book Now</a>
-               </li>
+               <li class="rd-nav-item"><a class="rd-nav-link" href="contact.php">Contacts</a></li>
+               <li class="rd-nav-item"><a class="rd-nav-link" href="book-now.php">Book Now</a></li>
              </ul>
            </div>
 
