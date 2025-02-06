@@ -315,18 +315,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4 mb-4">
-            <div class="card h-100 shadow-sm hover-zoom">
-              <div class="card-img-container">
-                <img src="images/Offers/SNORKLING.jpeg" class="card-img-top" alt="Snorkeling Best Deals">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title">Snorkeling Best Deals</h5>
-                <p class="card-text">Discover vibrant marine life just beneath the surface with our unbeatable snorkeling packages.</p>
-                <a href="https://wa.me/919531979064" target="_blank" class="btn btn-primary mt-3">View Deals</a>
-              </div>
-            </div>
-          </div>
+
           <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm hover-zoom">
               <div class="card-img-container">
